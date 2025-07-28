@@ -148,10 +148,10 @@ Ensure `.env.local` is properly configured in Vercel’s dashboard.
 
 ## Contributors
 
-- **Hrithik Kumar Singh** – Lead Developer & Project Architect
-- **Kalpana Bharti** 
-- **Kiran Sharma** 
-- **Shiven Pokhriyal** 
+- **Hrithik Kumar Singh** – Lead Developer API, Backend, Deployement & Project Coordination
+- **Kalpana Bharti** - Databases, Authentication and Testing , Documentation
+- **Kiran Sharma** - Backend Dev , Documentation
+- **Shiven Pokhriyal** - Frontend Dev , Documentation
 
 ---
 
